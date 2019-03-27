@@ -1,0 +1,19 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	}
+.box{
+	margin-top: 50px;
+	}
+#left-tu{
+	float: left;
+	}
+#right-tu{
+	float: right;
+	}
+.box ul{
+	list-style: none;
+	}
+.box ul li{
+	text-align: center;
+	}
